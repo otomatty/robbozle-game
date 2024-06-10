@@ -1,0 +1,8 @@
+.direction {
+  cursor: pointer;
+  user-select: none;
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #000;
+  display: inline-block;
+}
